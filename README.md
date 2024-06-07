@@ -7,5 +7,8 @@ El dataset escogido es el que resultó de la práctica 1 (Web scraping de una li
 Algunos de estos datos, han sido modificados (Añadiendo valores perdidos al dataset, o modificando datos para crear outliers). 
 Estas modificaciones han sido creadas, con el objetivo de conseguir un dataset más diverso, y por tanto con más sentido de pre-procesar y analizar. 
 
-El codigo de limpieza y de Analisis se ha procesado con diferentes codigos, pero ambos han sido programados en R
+El codigo se divide en 2 partes:
+        Codigo de limpieza -> File: CleanDataPR2.R
+        Codigo de analisis -> File:
+        
 
