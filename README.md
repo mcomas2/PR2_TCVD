@@ -9,6 +9,8 @@ Estas modificaciones han sido creadas, con el objetivo de conseguir un dataset m
 
 El codigo se divide en 2 partes:
         Codigo de limpieza -> File: CleanDataPR2.R
-        Codigo de analisis -> File:
+        Codigo de analisis 
+
+        El codigo esta todo junto en ScriptPR2_IzaskunSergio.R
         
 
